@@ -126,10 +126,6 @@ header {
     
   }
 
-.main-header{
-    position: sticky;
-    top:-80px;
-}
 
 .main-header-top {
     display: flex;
